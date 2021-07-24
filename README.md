@@ -1,4 +1,4 @@
-# Reviews App
+# Reviews Component
 
 https://ioannis-sporidis.github.io/reviews/
 
